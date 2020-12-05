@@ -1,6 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+assets
 node_modules
 optimization-fix-this-file-is-ignored.js
 yarn-error.log
