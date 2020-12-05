@@ -65,3 +65,9 @@ exclude:
   - optimization-fix-this-file-is-ignored.js
   - icon.png
   - docs
+
+defaults:
+  - scope:
+      path: "_images"
+    values:
+      image: true
