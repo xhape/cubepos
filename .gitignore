@@ -4,6 +4,8 @@ node_modules
 optimization-fix-this-file-is-ignored.js
 yarn-error.log
 .yarnclean
+sites
+assets
 
 # editors
 .idea
